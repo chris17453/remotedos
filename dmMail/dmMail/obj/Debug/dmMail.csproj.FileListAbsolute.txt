@@ -1,0 +1,5 @@
+C:\dmRemoteDos\bin\dmMail.dll
+C:\dmRemoteDos\bin\dmMail.pdb
+C:\remotedos\code\proBuild\dmMail\dmMail\obj\Debug\ResolveAssemblyReference.cache
+C:\remotedos\code\proBuild\dmMail\dmMail\obj\Debug\dmMail.dll
+C:\remotedos\code\proBuild\dmMail\dmMail\obj\Debug\dmMail.pdb

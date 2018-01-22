@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DM-rdServer", "DM-rdServer.csproj", "{4CE001E6-2018-4109-8F9C-90CC704793B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{204DAA52-67AB-4DE7-BB19-0DAE99C50304}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE001E6-2018-4109-8F9C-90CC704793B6}.Debug|x86.ActiveCfg = Debug|x86
+		{4CE001E6-2018-4109-8F9C-90CC704793B6}.Debug|x86.Build.0 = Debug|x86
+		{4CE001E6-2018-4109-8F9C-90CC704793B6}.Release|x86.ActiveCfg = Release|x86
+		{4CE001E6-2018-4109-8F9C-90CC704793B6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

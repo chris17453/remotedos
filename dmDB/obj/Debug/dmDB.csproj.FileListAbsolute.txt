@@ -1,0 +1,8 @@
+C:\remotedos\code\proBuild\dmDB\bin\Debug\dmDB.dll
+C:\remotedos\code\proBuild\dmDB\bin\Debug\dmDB.pdb
+C:\remotedos\code\proBuild\dmDB\bin\Debug\MySql.Data.dll
+C:\remotedos\code\proBuild\dmDB\obj\Debug\ResolveAssemblyReference.cache
+C:\remotedos\code\proBuild\dmDB\obj\Debug\dmDB.dll
+C:\remotedos\code\proBuild\dmDB\obj\Debug\dmDB.pdb
+C:\dmRemoteDos\bin\dmDB.dll
+C:\dmRemoteDos\bin\dmDB.pdb

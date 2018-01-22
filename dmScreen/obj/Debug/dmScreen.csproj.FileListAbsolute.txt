@@ -1,0 +1,8 @@
+C:\remotedos\code\proBuild\dmScreen\bin\Debug\dmScreen.dll
+C:\remotedos\code\proBuild\dmScreen\bin\Debug\dmScreen.pdb
+C:\remotedos\code\proBuild\dmScreen\obj\Debug\ResolveAssemblyReference.cache
+C:\remotedos\code\proBuild\dmScreen\obj\Debug\dm.dosScreen.resources
+C:\remotedos\code\proBuild\dmScreen\obj\Debug\GenerateResource.read.1.tlog
+C:\remotedos\code\proBuild\dmScreen\obj\Debug\GenerateResource.write.1.tlog
+C:\remotedos\code\proBuild\dmScreen\obj\Debug\dmScreen.dll
+C:\remotedos\code\proBuild\dmScreen\obj\Debug\dmScreen.pdb
