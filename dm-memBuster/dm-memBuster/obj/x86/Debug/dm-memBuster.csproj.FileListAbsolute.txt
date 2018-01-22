@@ -1,0 +1,9 @@
+C:\remotedos\dm-memBuster\dm-memBuster\bin\Debug\dm-memBuster.exe
+C:\remotedos\dm-memBuster\dm-memBuster\bin\Debug\dm-memBuster.pdb
+C:\remotedos\dm-memBuster\dm-memBuster\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\remotedos\dm-memBuster\dm-memBuster\obj\x86\Debug\dm_memBuster.Form1.resources
+C:\remotedos\dm-memBuster\dm-memBuster\obj\x86\Debug\dm_memBuster.Properties.Resources.resources
+C:\remotedos\dm-memBuster\dm-memBuster\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\remotedos\dm-memBuster\dm-memBuster\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\remotedos\dm-memBuster\dm-memBuster\obj\x86\Debug\dm-memBuster.exe
+C:\remotedos\dm-memBuster\dm-memBuster\obj\x86\Debug\dm-memBuster.pdb

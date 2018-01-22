@@ -1,0 +1,74 @@
+﻿[DB]
+server=4.16.144.138
+database=dm-remote-dos
+user=webuser2
+password=thisisarealylongpasswordtocrack314X
+        
+
+[Color Map]
+0=000000	--Black
+1=0000aa	--Darl Blue
+2=00aa00	--Dark Green
+3=00aaaa	--Dark Cyan
+4=aa0000	--Dark Red
+5=aa00aa	--Dark Magenta	
+6=aa5500	--Brown	
+7=aaaaaa	--light gray
+8=555555	--Dark gray
+9=5555ff	--Blue
+10=55ff55	--Green
+11=55ffff	--cyan	
+12=ff5555	--Red	
+13=ff55ff	--Magenta
+14=ffff55	--Yellow
+15=ffffff	--White
+
+[Key Map]
+176=2591	--
+177=2592	--
+178=2593	--
+179=2502	--│   drawings light vertical
+180=2524	--┤   drawings light vertical and left
+181=2561	--╡   drawings vertical single and left double
+182=2562	--╢   drawings vertical double and left single
+183=2556	--╖   drawings down double and left single
+184=2555	--╕   drawings down single and left double
+185=2563	--╣   drawings double vertical and left
+186=2551	--║   drawings double vertical
+187=2557	--╗   drawings double down and left
+188=255D	--╝   drawings double up and left
+189=255C	--╜   drawings up double and left single
+190=255B	--╛   drawings up single and left double
+191=2510	--┐   drawings light down and left
+192=2514	--└   drawings light up and right
+193=2534	--┴   drawings light up and horizontal
+194=252C	--┬   drawings light down and horizontal
+195=251C	--├   drawings light vertical and right
+196=2500	--─   drawings light horizontal
+197=253C	--┼   drawings light vertical and horizontal
+198=255E	--╞   drawings vertical single and right double
+199=255F	--╟   drawings vertical double and right single
+200=255A	--╚   drawings double up and right
+201=2554	--╔   drawings double down and right
+202=2569	--╩   drawings double up and horizontal
+203=2566	--╦   drawings double down and horizontal
+204=2560	--╠   drawings double vertical and right
+205=2550	--═   drawings double horizontal
+206=256C	--╬   drawings double vertical and horizontal
+207=2567	--╧   drawings up single and horizontal double
+208=2568	--╨   drawings up double and horizontal single
+209=2564	--╤   drawings down single and horizontal double
+210=2565	--╥   drawings down double and horizontal single
+211=2559	--╙   drawings up double and right single
+212=2558	--╘   drawings up single and right double
+213=2552	--╒   drawings down single and right double
+214=2553	--╓   drawings down double and right single
+215=256B	--╫   drawings vertical double and horizontal single
+216=256A	--╪   drawings vertical single and horizontal double
+217=2518	--┘   drawings light up and left
+218=250C	--┌   drawings light down and right
+219=2588	--█   full block
+220=2584	--▄   lower half block
+221=258C	--▌   left half block
+222=2590	--▐   right half block
+223=2580	--

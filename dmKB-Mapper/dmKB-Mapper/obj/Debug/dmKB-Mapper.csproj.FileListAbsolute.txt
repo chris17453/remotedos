@@ -1,0 +1,19 @@
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\bin\Debug\dmKB-Mapper.exe.config
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB-Mapper.csprojResolveAssemblyReference.cache
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB_Mapper.km.resources
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB_Mapper.Properties.Resources.resources
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB-Mapper.csproj.GenerateResource.Cache
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\bin\Debug\dmKB-Mapper.exe
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\bin\Debug\dmKB-Mapper.pdb
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB-Mapper.exe
+c:\users\charles\documents\visual studio 2013\Projects\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB-Mapper.pdb
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\bin\Debug\dmKB-Mapper.exe.config
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB-Mapper.exe
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB-Mapper.pdb
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\bin\Debug\dmKB-Mapper.exe
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\bin\Debug\dmKB-Mapper.pdb
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\obj\Debug\ResolveAssemblyReference.cache
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB_Mapper.km.resources
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\obj\Debug\dmKB_Mapper.Properties.Resources.resources
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\obj\Debug\GenerateResource.read.1.tlog
+C:\remotedos\dmKB-Mapper\dmKB-Mapper\obj\Debug\GenerateResource.write.1.tlog
